@@ -6,7 +6,7 @@ Marcações de texto usadas:
  -
  - HTML
  - CSS 
- - BOOTSATRAP 5
+ - BOOTSTRAP 5
   ### feramentas utilizadas:
   - git
   - vscode
